@@ -1,2 +1,3 @@
 # Real-Time-Sentiment-Analysis-of-Social-Media-Data
-Design and implement in Python a scalable system for real-time sentiment analysis of social media data streams. 
+Design and implement in Python a scalable system for real-time sentiment analysis of social media data streams. The system ought to be able to manage massive inflows of information, analyze it almost instantaneously, and generate meaningful insights such as sentiment trends over time, sentiment distribution across different demographics, and correlations with external events (e.g., news cycles, holidays). Consider the design of both data ingestion and processing pipelines, choice of sentiment analysis algorithms, scalability concerns (e.g., handling spikes in data volume), and visualization of results for end-user.
+
